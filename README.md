@@ -6,5 +6,4 @@
 🔹Project 1 - MIPS Swap Array Elements<br />
 🔸 Project 2 - MIPS Operations and Conditionals<br />
 🔺 Project 3 - TBD<br />
-🔸 Project 4 - TBD<br />
-🔹Project 5 - TBD<br />
+🔸 Project 4 - ALU Visualization<br />
